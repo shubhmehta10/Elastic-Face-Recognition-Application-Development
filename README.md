@@ -70,4 +70,4 @@ The application follows a three-tier architecture:
 - The autoscaling controller adjusts the App Tier instance count based on queue metrics, scaling out when demand increases and scaling in when demand decreases.
 
 ## License
-- This project is licensed under the MIT License.
+- This project is part of the Cloud Computing course (CSE 546) and follows the guidelines and submission policies set by the instructor.
