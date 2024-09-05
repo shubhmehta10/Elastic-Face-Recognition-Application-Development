@@ -24,6 +24,8 @@ The application follows a three-tier architecture:
 2. **App Tier**: Performs the actual face recognition using a pre-trained deep learning model.
 3. **Data Tier**: Stores input images and classification results in AWS S3.
 
+![Architecture Diagram](image/diag.png)
+
 ## Components
 
 ### Web Tier
