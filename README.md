@@ -49,7 +49,6 @@ The application follows a three-tier architecture:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/shubhmehta10/Elastic-Face-Recognition-Application-Development.git
-   cd your-repository
 
 2. **Install Dependencies**:
    ```bash
